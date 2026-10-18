@@ -1,0 +1,23 @@
+{
+  "name": "darija-video-editing",
+  "displayName": "Darija Video Editing Suite",
+  "version": "1.0.0",
+  "description": "End-to-end video editing pipeline tailored for Moroccan Darija footage: mobile MTP ingestion, featherweight zero-lag editing proxies, faster-whisper Arabic/Darija word-level transcription, FilmCraft master assembly, and YouTube/Shorts distribution funnels.",
+  "author": "Abderrahmane Mhawar",
+  "suggestedPrompts": [
+    "Ingest MotionCam Darija footage and set up a FilmCraft editing project",
+    "Generate fast editing proxies and attach them to FilmCraft timeline",
+    "Transcribe Moroccan Darija video with word timestamps and inject into FilmCraft",
+    "Assemble master long-form sequence and prepare short-form spin-offs for @fisik101"
+  ],
+  "keywords": [
+    "video-editing",
+    "darija",
+    "morocco",
+    "filmcraft",
+    "motioncam",
+    "proxies",
+    "whisper",
+    "youtube-shorts"
+  ]
+}
